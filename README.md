@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-#[LIVE DEMO](https://fakeshop--isratsultana.repl.co/)
+#[LIVE DEMO](https://fakeshop-israt.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
